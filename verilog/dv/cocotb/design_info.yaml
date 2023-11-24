@@ -1,8 +1,8 @@
-CARAVEL_ROOT: /usr/caravel_user_project/caravel
-MCW_ROOT: /usr/caravel_user_project/mgmt_core_wrapper
+CARAVEL_ROOT: /home/akshay/vlsi_dd/pes_sipo_akshay/caravel
+MCW_ROOT: /home/akshay/vlsi_dd/pes_sipo_akshay/mgmt_core_wrapper
 PDK: sky130A
-PDK_ROOT: /usr/pdk
-USER_PROJECT_ROOT: /usr/caravel_user_project
+PDK_ROOT: /home/akshay/asic/pdk
+USER_PROJECT_ROOT: /home/akshay/vlsi_dd/pes_sipo_akshay
 caravan: false
 clk: 25
 emailto:
